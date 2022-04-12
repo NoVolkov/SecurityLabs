@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="asymmetric">
+    <output-path>$PROJECT_DIR$/out/artifacts/asymmetric</output-path>
+    <root id="root">
+      <element id="archive" name="asymmetric_encryption.jar">
+        <element id="module-output" name="asymmetric encryption" />
+      </element>
+    </root>
+  </artifact>
+</component>
